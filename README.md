@@ -20,3 +20,18 @@
   <a href="https://www.linkedin.com/in/marcelo-maia-moselli-986419220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+
+<div align="center">
+  <a href="https://github.com/4ndrad">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=moselli09&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moselli09&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+
+
+
+
+  ![Snake animation](https://github.com/4ndrad/4ndrad/blob/output/github-contribution-grid-snake.svg)  
