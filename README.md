@@ -1,4 +1,4 @@
-## Oiii eu sou a Marcelo Moselli, programador e criadora de conteúdo de programação e tecnologia!
+## Oiii eu sou a Marcelo Moselli, programador e criador de conteúdo de programação e tecnologia!
 
 
 <div style="display: inline_block"><br>
